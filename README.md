@@ -15,3 +15,7 @@ que nos da una introduccion a las bases de datos Relacionales, y su estructuraci
 # Diseño Logico
 
  ![DIseño Logico](https://user-images.githubusercontent.com/114126710/228673178-0c280e37-91d7-4f74-ae86-675488f9fb48.png)
+
+# Diagrama SQL
+
+ ![diagrama_sql_project](https://user-images.githubusercontent.com/114126710/229004866-a594c3fc-e3fd-4d50-82bf-9cf5d679a307.png)
